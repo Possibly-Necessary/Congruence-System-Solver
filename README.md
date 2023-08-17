@@ -39,7 +39,7 @@ In this example, there are 4 congruence systems, so beforehand, you'll be asked 
 		Output:
 
 		How many values do you want to enter for the remainder and moduli vectors 'a' and 'n' (size of vectors)?
-	  input: 4
+	  	input: 4
 
 From the systems, the remainder vector a = [4 1 3 0] and the moduli vector n = [7 3 5 11] will be the input for this congruence system solver, which should be individually entered.
 

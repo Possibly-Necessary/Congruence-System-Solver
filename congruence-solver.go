@@ -63,7 +63,7 @@ func Gcd(a, b int) int {
 
 //--------------------------------------------------------------------------------------------------
 
-// Fucntion to check if the moduli vector [n0,...,nk-1] are pairwise coprime
+// Function to check if the moduli vector [n0,...,nk-1] are pairwise coprime
 // It checks if each pair of numbers in the vector are coprime
 // The greatest common divisor of each pair should be 1
 func pairwiseCoprime(v []int) bool {

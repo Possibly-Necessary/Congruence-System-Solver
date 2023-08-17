@@ -1,6 +1,7 @@
 # Congruence-System-Solver
 
-Pseudocode & example from the book: MoonMath Manual to zk-SNARKS, p. 12-20.
+Pseudocode & example from the book: The MoonMath Manual to zk-SNARKS, p. 12-20.
+
 Book: https://leastauthority.com/community-matters/moonmath-manual/
 
 Algorithm: Chinese Remainder Theorem (CRT)

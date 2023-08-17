@@ -53,7 +53,7 @@ func ExtdEuclid(a, b int) (r, s, t int, err error) {
 	}
 }
 
-// Fucntion used to check for coprime integers (when their gcd = 1)
+// Function used to check for coprime integers (when their gcd = 1)
 func Gcd(a, b int) int {
 	if b == 0 {
 		return a
